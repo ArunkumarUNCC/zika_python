@@ -1,0 +1,18 @@
+Follow the following steps to install pyksc:
+
+The package is using python 2 codebase. Don't use python3
+
+Packages Required:
+1. git
+2. cython
+3. numpy
+4. libblas-dev
+5. scipy
+6. libblas3
+7. libblas3gf
+8. python-dev
+
+Steps to install:
+1. Clone the pyksc project: git clone https://github.com/flaviovdf/pyksc.git
+2. Go to pyksc folder: cd pyksc
+3. Install pyksc: python setup.py install
